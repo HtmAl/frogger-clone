@@ -6,7 +6,9 @@ To safely move up the screen all the way to the water, at the top. To do so, you
 
 
 ## Starting the game
-Open up the index.html file in your web browser. This file is located in the same folder as this README.md file.
+Open up the index.html file in your web browser. This file is located in the same folder as this README.md file.\
+\
+Alternatively, you can play here: https://htmal.github.io/frogger-clone/
 
 
 ## Initial setup
